@@ -1,3 +1,3 @@
-# Aprendendo
-Esse é meu primeiro commit, acho que o aprendizado se faz tendo inicitiva e curiosidade, obrigado por estar lendo agradeço sua atenção!
-
+# PROJETO EM AULA
+Se você esta vendo isso é pq deu certo aqui no passado
+#TMJÈNOIZFUTURO
